@@ -1,0 +1,7 @@
+ipykernel==6.29.3
+numpy==1.26.4
+scipy==1.14.2
+pandas==2.2.1
+matplotlib==3.8.4
+pandapower==2.14.1
+python-igraph==0.11.4
